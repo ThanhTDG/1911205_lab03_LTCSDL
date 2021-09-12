@@ -1,0 +1,10 @@
+﻿001*Nguyễn Hữu Đức Thanh*07/02/2001*273 Lê Lai Phường 123*CTK42**1*Mạng truyền thông,Công nghệ phần mềm,Khoa học máy tính
+002*Nguyễn Kim Đức Thanh*10/02/2001*273 Phan Bội Châu Phường 123*CTK43**1*Mạng truyền thông,Trí tuệ nhân tạo,Hệ thống thông tin
+033*Nguyễn Kim Long*15/12/2000*273 Lê Lai Phường 4*CTK42**1*Mạng truyền thông,Công nghệ phần mềm,Khoa học máy tính
+014*Lê Ngọc Hải Thanh*10/01/2001*54 Phan Đình Phùng Phường 3*CTK44**1*Mạng truyền thông,Công nghệ phần mềm,Khoa học máy tính
+015*Đặng Như Thảo*07/05/2001*154 Lê Lợi*CTK42**1*Mạng truyền thông,Công nghệ phần mềm,Hệ thống thông tin
+006*Trần Phụng Đức*07/08/2001*114 3 tháng 2 Phường 7*CTK43**1*Trí tuệ nhân tạo,Công nghệ phần mềm,Hệ thống thông tin
+067*Trần Duyên Quế*05/09/2001*6 Lê quý đôn Phường 8*CTK43**1*Trí tuệ nhân tạo,Công nghệ phần mềm,Khoa học máy tính
+088*Vũ Hồng Bảo*12/02/2001*84 Lê lợiPhường 5*CTK44**1*Mạng truyền thông,Công nghệ phần mềm,Khoa học máy tính
+009*Nguyễn Thị Minh*12/09/2001*12 Ngẫu Hứng Phường 6*CTK43**1*Mạng truyền thông,Công nghệ phần mềm,Hệ thống thông tin
+010*Phan Ngọc Như*07/11/2000*97 Trại Mát 4*CTK42**1*Mạng truyền thông,Công nghệ phần mềm,Tin học ứng dụng

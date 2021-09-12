@@ -1,0 +1,12 @@
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\bin\Debug\1911205_Lab03.exe.config
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\bin\Debug\1911205_Lab03.exe
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\bin\Debug\1911205_Lab03.pdb
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\obj\Debug\1911205_Lab03.csproj.AssemblyReference.cache
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\obj\Debug\_1911205_Lab03.Properties.Resources.resources
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\obj\Debug\1911205_Lab03.csproj.GenerateResource.cache
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\obj\Debug\1911205_Lab03.csproj.CoreCompileInputs.cache
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\obj\Debug\1911205_Lab03.exe
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\obj\Debug\1911205_Lab03.pdb
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\obj\Debug\_1911205_Lab03.SinhVienForm.resources
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\bin\Debug\DanhSachSV.txt
+G:\Project\C#\CKT43\1911205_lab03_LTCSDL\1911205_Lab03\1911205_Lab03\obj\Debug\_1911205_Lab03.TuyChonForm.resources
